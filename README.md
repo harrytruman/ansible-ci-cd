@@ -1,2 +1,1 @@
-# ansible-ci-cd
-Ansible CI/CD Examples
+Examples of Ansible CI/CD.

@@ -1,0 +1,8 @@
+---
+- name: promote from one branch to another
+  hosts: all
+  connection: local
+  gather_facts: no
+
+  role:
+    - git_repo
